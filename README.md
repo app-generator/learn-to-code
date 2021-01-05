@@ -26,8 +26,11 @@ Content provided by experienced developers based on the suggestions/questions fr
 
 > If your preferred technology is not here, please use the [issues tracker](https://github.com/app-generator/learn-to-code/issues/new) and tell us more. For now we have:   
 
+<br />
+
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask)
 - [Django Tutorial](https://github.com/app-generator/tutorial-django)
+- [Python Tutorial](https://github.com/app-generator/tutorial-python)
 
 
 <br />
