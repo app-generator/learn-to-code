@@ -2,28 +2,33 @@
 
 Content provided by experienced developers based on the suggestions/questions from the audience. The reason(s) for this initiative:
 
-- Tutorials are not maintained with latest trends and information. 
-- Usually tutorials are one-way. The editor edit the contend and the audience consume it, .. but where to drop a question or get an advice.
-- Answers are provided by experienced develoeperd and voted by the audience. 
-- Behind this project is a company that sustain the effort with a budget.
+<br />
+
+**Tutorials - the classic way**
+
+- Not maintained with the latest trends and information.
+- Is quite hard to find the answer regarding a topic. Usually, we are asking Google for help and we land on StackOverflow. 
+- This process is a loop for anyone asking/looking for the same problem
 
 <br />
 
-How it works: 
+**Tutorials - the new way**
 
-- Ask anything related to a technology using Github issues tracker
-- You get an answer from a contributor voted and validated by the audience 
-- The main tutorial will be updated with the response be used by anyone
-- If a topic gets deprecated, a new issue will be opened and the content is updated.
+- No content provided at the beginning. 
+- Have a question? Open a new fault using Github issues tracker and you got an answer from a contributor  
+- Answers are provided by experienced developers and voted by the audience. 
+- The main tutorial is updated once the topic is getting a good answer
+- If a topic is getting deprecated, a new issue is opened and content gets an update
 
-<br >
+<br />
 
 # Tutorials 
 
-> If your preferred technology is not here, please use the issues tracker and add it. 
+> If your preferred technology is not here, please use the [issues tracker](https://github.com/app-generator/learn-to-code/issues/new) and tell us more. For now we have:   
 
-- Flask Tutorial
-- Django Tutorial
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask)
+- [Django Tutorial](https://github.com/app-generator/tutorial-django)
+
 
 <br />
 
