@@ -33,4 +33,4 @@ Content provided by experienced developers based on the suggestions/questions fr
 <br />
 
 ---
-Learn to code - Free/Allways up-to-date programming tutorials - project suported by [AppSeed](https://appseed.us?ref=gh).
+Learn to code - Free/Allways up-to-date programming tutorials | by [AppSeed](https://appseed.us?ref=gh).
