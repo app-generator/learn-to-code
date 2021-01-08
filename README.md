@@ -48,5 +48,9 @@ Technical terms used by geeks, programmers, and hackers.
 
 <br />
 
+> :link: Read more: [What Is Glossary](https://github.com/app-generator/what-is)
+
+<br />
+
 ---
 Learn to code - Free/Allways up-to-date programming tutorials | by [AppSeed](https://appseed.us?ref=gh).
