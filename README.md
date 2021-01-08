@@ -22,16 +22,29 @@ Content provided by experienced developers based on the suggestions/questions fr
 
 <br />
 
-# Tutorials 
+## Tutorials 
 
-> If your preferred technology is not here, please use the [issues tracker](https://github.com/app-generator/learn-to-code/issues/new) and tell us more. For now we have:   
+> If your preferred technology is not here, please use the [issues tracker](https://github.com/app-generator/learn-to-code/issues/new) and tell us more.  
 
 <br />
 
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask)
 - [Django Tutorial](https://github.com/app-generator/tutorial-django)
 - [Python Tutorial](https://github.com/app-generator/tutorial-python)
+- (WIP) React Tutorial
+- (WIP) Vue Tutorial
+- (WIP) Svelte Tutorial
 
+<br />
+
+## [What Is Glossary](https://github.com/app-generator/what-is)
+
+Technical terms used by geeks, programmers, and hackers.
+
+- Flask
+- Django
+- React
+- Vue
 
 <br />
 
